@@ -1,0 +1,483 @@
+---
+title: "Introduction aux Sciences Sociales Computationnelles"
+subtitle: "Interface SHS / sciences computationnelles"
+format:
+    pdf
+---
+
+# Présentation du module
+
+## Une introduction
+
+- Différentes notions
+    - Un panorama transversal
+- Une approche projet
+    - Orientée computationnel
+- L'occasion d'échanger
+
+---
+
+## Qui suis-je ?
+
+Entre les sciences sociales et les infrastructures numériques
+
+- Formé en physique appliquée
+- Thèse & recherche en sociologie
+- Data scientist @ CREST
+
+Me contacter : emilien.schultz@ensae.fr 
+
+---
+
+## Déroulement
+
+- Aujourd'hui
+    - Introduction aux sciences sociales computationnelles
+    - Collecte de données Bluesky + [Hands on 👐] 
+    - Analyse exploratoire et visualisation + [Hands on 👐]
+
+- Demain
+    - Introduction au NLP + [Hands on 👐] 
+    - Introduction à l'analyse de réseaux + [Hands on 👐] 
+    - Avancer sur le projet 👐
+
+---
+
+## Le dépôt
+
+Le dépôt du cours [https://github.com/emilienschultz/sscmarseille](https://github.com/emilienschultz/sscmarseille)
+
+- Les slides
+- Les scripts
+
+
+# Les sciences sociales computationnelles
+
+## Deux polarités
+
+- Les sciences computationnelles/informatiques
+- Les sciences humaines et sociales
+
+![](./img/bridge.png){fig-align="center"}
+
+
+---
+
+## Que sont les SHS ?
+
+- Différence entre sciences humaines & sociales ?
+- Quelles disciplines ?
+- Quelles questions les animent ?
+
+![](./img/comte.jpg){fig-align="center"}
+
+---
+
+## Projet des sciences sociales
+
+Rendre compte du monde social
+
+Trois mouvements :
+
+- Décrire le monde social
+- Problématiser[^probl]
+- Expliquer
+
+[^probl]: « Le savant n’est pas l’homme qui fournit les vraies réponses, c’est celui qui pose les vraies questions. » Claude Lévi-Strauss, Le cru et le cuit.
+
+---
+
+## "Nouvel" axe numérique
+
+- Division historique en SHS
+    - quali/quanti
+- Recompositions
+    - "Quali, quanti, ordi" (É. Ollion)
+
+
+---
+
+## La promesse des SSC
+
+![](./img/promesse.png){fig-align="center"}
+
+---
+
+## D'autres étiquettes...
+
+**Lien entre sciences sociales et sciences informatiques**
+
+-	Informatique en sciences sociales
+-	Humanités numériques
+-	Sociologie/histoire/… numérique/informatique
+-	Big data
+-	Social physics
+-	Humanités computationnelles
+- ...
+
+---
+
+## Tentative de définition
+
+::: {style="font-size: 50%;"}
+
+> « La notion de « computationnel » appliquée aux humanités renvoie à une utilisation poussée des algorithmes pour analyser les données des sciences humaines, qui transcende la simple numérisation des documents ou l’utilisation superficielle d’un logiciel prêt à l’emploi  […] Autrement dit, les méthodes computationnelles ne viennent pas simplement s’ajouter à la boîte à outils existante ; elles redéfinissent en profondeur les questions que les chercheurs peuvent poser et les connaissances qu’ils peuvent en tirer. » (Henriot et Armand, p. 6)
+
+> « We define CSS as the development and application of computational methods to complex, typically large-scale, human (sometimes simulated) behavioral data » (Lazer et al., 2020, p. 1)
+
+> « Computational social science is an interdisciplinary field that advances theories of human behavior by applying computational techniques to large datasets from social media sites, the Internet, or other digitized archives such as administrative records. » (Edelmann et al., 2020, p. 2)
+
+:::
+
+Pas de définition univoque, plutôt un *air de famille*
+
+---
+
+## Une évolution récente
+
+![](./img/css_edelmann.png){fig-align="center"}
+
+::: {style="font-size: 50%;"}
+
+Edelmann, Achim, Tom Wolff, Danielle Montagne, et Christopher A. Bail. 2020. « Computational Social Science and Sociology ». Annual Review of Sociology 46(1): annurev-soc-121919-054621. doi:10.1146/annurev-soc-121919-054621.
+
+:::
+
+---
+
+## Dans de nombreuses disciplines
+
+![](./img/discipline_edelmann.png){fig-align="center"}
+
+
+---
+
+## Pourquoi ?
+
+- De nouvelles méthodes permises par l'informatique
+    - NLP, ABM, ...
+- De nouvelles données
+    - Administratives, etc.
+- De nouveaux objets
+    - Médias sociaux
+
+Amène des promesses :
+
+- De nouveaux résultats
+- De nouvelles épistémologies (data-based science)
+
+---
+
+## Besoin de nouvelles compétences
+
+- Informatique
+    - Programmation
+    - Développement
+- Mathématiques
+- Spécialisées
+    - TAL
+    - ML/DL
+    - Data viz
+
+
+---
+
+## De nouveaux parcours
+
+[Computational Social Science Training Program (CSSTP)
+ au Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/computational-social-science-training-program#:~:text=The%20UC%20Berkeley%20Computational%20Social,%2C%20social%20welfare%2C%20and%20sociology.)
+
+![](./img/berkeleyorga.png){fig-align="center"}
+
+---
+
+## Pour y faire quoi ?
+
+![](./img/berkeleycursus.png){fig-align="center"}
+
+---
+
+## Et d'autres
+
+- MIASHS
+- Humanités numériques
+- Sociologie quantitative
+- ...
+
+---
+
+## Deux types de trajectoires
+
+- **Des sciences sociales vers l'informatique**
+    - Forte familiarité à certaines disciplines
+    - Compétences acquises progressivement en numérique
+- **Des sciences xp / exactes / ing aux SSC**
+    - Plus de notions mathématiques / numériques
+    - Familiarisation progressive avec les SHS
+
+Au final, tout le monde apprend.
+
+---
+
+## De nouveau profils
+
+Dans les laboratoires
+
+- Chercheurs spécialisés SSC
+- Ingénieurs de recherche données
+- Data scientist
+
+Dans le privé, gradient :
+
+- data analyst/scientist
+- data journalist
+- ingénieur NLP, etc.
+
+
+---
+
+
+## Multiplication des postes
+
+![](img/inalab.png){fig-align="center"}
+
+---
+
+## Et dans le privé 
+
+![](img/agoratlas.png){fig-align="center"}
+
+---
+
+## Et dans le privé 
+
+![](img/opsci.png){fig-align="center"}
+
+---
+
+## Arrivée de l'IA générative
+
+![](img/pnas_bail.png){fig-align="center"}
+
+---
+
+## Une tension fondamentale 
+
+- Multiplicité des SHS
+- Multiplicité des compétences numériques
+    - DevOps
+    - NLP
+    - ABM
+    - SIG
+
+---
+
+## Au final, c'est quoi les SSC ?
+
+Surtout que tout est informatisé 
+
+- **Boîte à outils** : un ensemble de méthodes
+- **Orienté données**: l'intégration de nouvelles données peu conventionnelles
+- **Interface** : lieu d'échange entre SHS et SC
+
+
+# Études de cas
+
+## Que font les SSC ?
+
+- Poser des questions de sciences sociales 
+- Y répondre avec des données/méthodes computationnelles
+
+Deux volets :
+
+- recherche : nouvelles méthodes/questions
+- ingénierie : mise en oeuvre/outils
+
+Comprendre par la diversité des travaux existants (en recherche)
+
+---
+
+## Genre dans les films
+
+![](img/movie1.png){fig-align="center"}
+
+[Référence](https://www.nature.com/articles/s41599-021-00815-9)
+
+---
+
+## 
+
+![](img/movie2.png){fig-align="center"}
+
+
+
+---
+
+## Humanités & images
+
+![](img/snoop.png){fig-align="center"}
+
+[Project SNOOP](https://www.ina.fr/institut-national-audiovisuel/equipe-recherche/projet-snoop)
+
+---
+
+## Stylométrie
+
+![](img/moliere.png){fig-align="center"}
+
+[Référence](https://www.science.org/doi/10.1126/sciadv.aax5489)
+
+---
+
+## Scientométrie
+
+[Référence]( https://www.dashunwang.com/book/the-science-of-science)
+
+![](img/scienceofscience.jpeg){fig-align="center"}
+
+
+---
+
+## Politisation & médias sociaux
+
+[Référence](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013170)
+
+![](img/twitter1.png){fig-align="center"}
+
+
+---
+
+## 
+
+:::{.columns}
+
+::: {.column width="50%"}
+![](img/twitter2.png){fig-align="center"}
+
+:::
+::: {.column width="50%"}
+![](img/twitter3.png){fig-align="center"}
+
+:::
+
+::::
+
+
+---
+
+## Appliqué à la lutte contre la désinformation
+
+[Référence](https://www.jmir.org/2021/5/e26933/)
+
+
+![](img/desinformation.png){fig-align="center"}
+
+---
+
+## ML en économie
+
+![](img/targeting.png){fig-align="center"}
+
+
+[Référence](https://www.nature.com/articles/s41586-022-04484-9)
+
+---
+
+## LLM en sciences cognitives
+
+
+[Référence](https://www.pnas.org/doi/epub/10.1073/pnas.2405460121)
+
+
+![](img/mind.png){fig-align="center"}
+
+
+---
+
+## Etudier des forums
+
+[Référence](https://journals.sagepub.com/doi/10.1177/14614448231176777)
+
+
+![](img/incel1.png){fig-align="center"}
+
+---
+
+## Faire du NLP "simple"
+
+![](img/incel2.png){fig-align="center"}
+
+
+---
+
+## Augmenter les sciences sociales
+
+[Référence](https://journals.sagepub.com/doi/abs/10.1177/00491241221134526) - [Émission France Culture](https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/le-code-a-change-4-10-9709507)
+
+
+![](img/augmented.png){fig-align="center"}
+
+
+---
+
+
+## S'auto-étudier avec des classifieurs
+
+![](img/article-css.png){fig-align="center"}
+
+[Référence](https://arxiv.org/abs/2412.08087)
+
+---
+
+## Outiller l'analyse de réseaux
+
+![](img/gephi.png){fig-align="center"}
+
+
+[Référence](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098679)
+
+
+---
+
+
+## Entre promesses et évolutions
+
+- Beaucoup de promesses
+- Mais des changements bien en cours
+    - Interdisciplinarité
+
+[Des ressources Awesome CSS repo](https://github.com/gesiscss/awesome-computational-social-science )
+
+---
+
+## De nouveaux enjeux éthiques
+
+- Valeur des données & monétarisation
+- Ciblage
+- Accès aux données sensibles
+- Risque de biais spécifiques
+
+# Validation
+
+
+## Projet & Validation
+
+- Une question d'enquête
+    - Données de médias sociaux (Bluesky)
+- Collecte des données & constitution du corpus
+- Une analyse (NLP ou réseaux)
+- Une visualisation bien pensée
+
+Seul ou à deux (= approfondir plus)
+
+- à envoyer à emilien.schultz@ensea.fr 
+- avant le 10 avril
+
+---
+
+## Définir une question d'enquête
+
+- Circonscrite
+    - Privilégier la description d'un phénomène
+- Adaptée aux données
+- Réflexive
